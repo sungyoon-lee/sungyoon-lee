@@ -17,7 +17,7 @@ AI Research Fellow in the Center for AI and Natural Sciences, Korea Institute fo
 - Adversarial Robustness
 - Certified Defense
 
-### [CV](cv.pdf) 📋
+### [CV](cv.pdf) [📋](cv.pdf)
 
 
 <!--
