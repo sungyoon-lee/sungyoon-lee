@@ -17,6 +17,9 @@ AI Research Fellow in the Center for AI and Natural Sciences, Korea Institute fo
 - Adversarial Robustness
 - Certified Defense
 
+### CV 📋
+![CV](cv.pdf)
+
 <!--
 **sungyoon-lee/sungyoon-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
