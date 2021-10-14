@@ -26,12 +26,12 @@ AI Research Fellow in the Center for AI and Natural Sciences, Korea Institute fo
 **SL**, Woojin Lee, Jinseong Park, Jaewook Lee<br>
 _Advances in Neural Information Processing Systems (NeurIPS)_, 34, 2021.<br>
 To appear<br>
-[github](https://github.com/sungyoon-lee/LossLandscapeMatters)
+[repo](https://github.com/sungyoon-lee/LossLandscapeMatters)
 
 - **Lipschitz-Certifiable Training with a Tight Outer Bound**<br>
 **SL**, Jaewook Lee, Saerom Park<br>
 _Advances in Neural Information Processing Systems (NeurIPS)_, 33, 2020.<br>
-[paper](https://proceedings.neurips.cc//paper/2020/hash/c46482dd5d39742f0bfd417b492d0e8e-Abstract.html)/[github](https://github.com/sungyoon-lee/bcp)
+[paper](https://proceedings.neurips.cc//paper/2020/hash/c46482dd5d39742f0bfd417b492d0e8e-Abstract.html)/[repo](https://github.com/sungyoon-lee/bcp)
 
 ### [Curriculum Vitae](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3ac7e8c7-8c9f-49cb-8279-1ce60f77f3ac/cv.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211014%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211014T065338Z&X-Amz-Expires=86400&X-Amz-Signature=d36c46ef857dff7e3362bd49c0218f194db96d2893ccf599e332756d66d89f91&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22cv.pdf%22) [🌱](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3ac7e8c7-8c9f-49cb-8279-1ce60f77f3ac/cv.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211014%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211014T065338Z&X-Amz-Expires=86400&X-Amz-Signature=d36c46ef857dff7e3362bd49c0218f194db96d2893ccf599e332756d66d89f91&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22cv.pdf%22)
 
