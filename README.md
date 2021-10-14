@@ -5,6 +5,11 @@ My research goal is to build a robust and reliable deep learning system based on
 ### Research Experience 🌱
 AI Research Fellow in the Center for AI and Natural Sciences, Korea Institute for Advanced Study (KIAS) (Sep, 2021-)
 
+### Education 🎓
+- Ph.D. in Mathematical Sciences, Seoul National Universtiy (Sep, 2016 - Aug, 2021)
+- B.S. in Material Science and Engineering, Seoul National Universtiy (Mar, 2010 - Feb, 2016)
+- B.S. in Mathematical Sciences, Seoul National Universtiy (Double Major; Mar, 2010 - Feb, 2016)
+
 ### Research Intersests ✨
 - Deep learning
 - Optimization and Generalization
