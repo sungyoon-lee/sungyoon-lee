@@ -12,10 +12,11 @@ AI Research Fellow in the Center for AI and Natural Sciences, Korea Institute fo
 
 ### Research Intersests ✨
 - Deep learning
-- Optimization and Generalization
-- Robust, Reliable, Interpretable and Trustworthy Machine Learning
-- Adversarial Robustness
-- Certified Defense
+    - Optimization and Generalization
+        - Implicit Bias in SGD 
+    - Robust, Reliable, Interpretable and Trustworthy Machine Learning
+        - Adversarial Robustness
+        - Certified Defense
 
 ### [CV](cv.pdf) [📋](cv.pdf)
 
