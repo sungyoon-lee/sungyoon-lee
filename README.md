@@ -20,7 +20,7 @@ AI Research Fellow in the Center for AI and Natural Sciences, Korea Institute fo
         - Adversarial Robustness
         - Certified Defense
 
-### [CV](cv.pdf) [📋](cv.pdf)
+### [CV](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3ac7e8c7-8c9f-49cb-8279-1ce60f77f3ac/cv.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211014%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211014T065338Z&X-Amz-Expires=86400&X-Amz-Signature=d36c46ef857dff7e3362bd49c0218f194db96d2893ccf599e332756d66d89f91&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22cv.pdf%22) [📋](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3ac7e8c7-8c9f-49cb-8279-1ce60f77f3ac/cv.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211014%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211014T065338Z&X-Amz-Expires=86400&X-Amz-Signature=d36c46ef857dff7e3362bd49c0218f194db96d2893ccf599e332756d66d89f91&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22cv.pdf%22)
 
 
 <!--
