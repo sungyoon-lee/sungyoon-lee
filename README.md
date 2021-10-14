@@ -11,10 +11,12 @@ AI Research Fellow in the Center for AI and Natural Sciences, Korea Institute fo
 - B.S. in Mathematical Sciences, Seoul National Universtiy (Double Major; Mar, 2010 - Feb, 2016)
 
 ### Research Intersests ✨
-- Deep learning
-    - Optimization and Generalization
+- **Deep learning**
+    - _Why deep learning works?_
+        - Optimization and Generalization
         - Implicit Bias in SGD 
-    - Robust, Reliable, Interpretable and Trustworthy Machine Learning
+    - _Why deep learning NOT works?_
+        - Robust, Reliable, Interpretable and Trustworthy Machine Learning
         - Adversarial Robustness
         - Certified Defense
 
