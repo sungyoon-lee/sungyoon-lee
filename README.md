@@ -33,7 +33,7 @@ To appear<br>
 _Advances in Neural Information Processing Systems (NeurIPS)_, 33, 2020.<br>
 [paper](https://proceedings.neurips.cc//paper/2020/hash/c46482dd5d39742f0bfd417b492d0e8e-Abstract.html)/[repo](https://github.com/sungyoon-lee/bcp)
 
-### [Curriculum Vitae](https://www.notion.so/sungyoonlee/Sungyoon-Lee-18f9f5626aa54a55a7ee01cf1cbac224#1cdc13facdfa4285b42512afafcbd94d) [🌱](./cv.pdf)
+### [Curriculum Vitae 🌱](https://drive.google.com/file/d/19JMtqXEjt9V1Kl_DJXv0ucL3id2PbnVQ/view)
 
 
 <!--
