@@ -3,7 +3,7 @@ I am [Sungyoon Lee](https://sites.google.com/view/sungyoon-lee/home).<br>
 My research goal is to build a robust and reliable intelligent system based on an understanding of deep learning to solve important problems and develop technologies that can benefit people and society.
 
 ### Research Experience 🔍
-- AI Research Fellow in the Center for AI and Natural Sciences, Korea Institute for Advanced Study (KIAS) (Sep, 2021-)
+- Research Fellow in the Center for AI and Natural Sciences, Korea Institute for Advanced Study (KIAS) (Sep, 2021-)
 
 ### Education 🎓
 - Ph.D. in Mathematical Sciences, Seoul National Universtiy (-Aug, 2021)
