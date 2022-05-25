@@ -1,5 +1,7 @@
 ### Hi there 👋
 I am [Sungyoon Lee](https://sites.google.com/view/sungyoon-lee/home).<br>
+
+<!--
 My research goal is to build a robust and reliable intelligent system based on an understanding of deep learning to solve important problems and develop technologies that can benefit people and society.
 
 ### Research Experience 🔍
@@ -36,7 +38,6 @@ _Advances in Neural Information Processing Systems (NeurIPS)_, 33, 2020.<br>
 ### [Curriculum Vitae 🌱](https://drive.google.com/file/d/19JMtqXEjt9V1Kl_DJXv0ucL3id2PbnVQ/view)
 
 
-<!--
 **sungyoon-lee/sungyoon-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
